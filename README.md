@@ -9,4 +9,5 @@ My LinkedIn: www.linkedin.com/in/zhangwei-chen
 * Logistic Regression
 * Linear Regression
 * Linear Regression(Normal Equation)
-=========
+* K Means Clustering
+* NaiveBayes
