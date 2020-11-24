@@ -11,3 +11,5 @@ My LinkedIn: www.linkedin.com/in/zhangwei-chen
 * Linear Regression(Normal Equation)
 * K Means Clustering
 * NaiveBayes
+* SVM
+* Neural Network
