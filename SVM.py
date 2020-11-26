@@ -1,3 +1,6 @@
+# Reference:
+# https://xavierbourretsicotte.github.io/SVM_implementation.html
+# https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/algorithms/svm/svm.py
 import numpy as np
 import cvxopt
 
@@ -75,8 +78,3 @@ class SVM:
             * self.kernel[sv, sv][:, np.newaxis]
         )
         return sv
-
-
-# Reference:
-# https://xavierbourretsicotte.github.io/SVM_implementation.html
-# https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/algorithms/svm/svm.py
