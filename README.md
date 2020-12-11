@@ -16,3 +16,4 @@ My LinkedIn: www.linkedin.com/in/zhangwei-chen
 * SVM
 * Neural Network
 * Decision Tree
+* CollaborativeFiltering(Latent Factor Model)
